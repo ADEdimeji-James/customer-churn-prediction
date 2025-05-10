@@ -46,3 +46,4 @@ Customer Churn Prediction is a machine learning project that aims to identify cu
 | `WA_Fn-UseC_-Telco-Customer-Churn` | Dataset used for the project |
 | `requirements.txt` | Python dependencies |
 | `README.md` | Project summary |
+| `Encoders.pkl` | Serialized label encoders used to preprocess categorical features before prediction |
